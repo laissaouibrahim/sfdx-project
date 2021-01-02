@@ -1,9 +1,14 @@
 {
-  "orgName": "DreamHouse Realty",
-  "edition": "Developer",
-  "settings": {
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
+    "orgName": "ursus-park",
+    "edition": "Developer",
+    "language": "en_US",
+    "hasSampleData": false,
+    "settings": {
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
+        },
+        "mobileSettings": {
+            "enableS1EncryptedStoragePref2": false
+        }
     }
-  }
 }
